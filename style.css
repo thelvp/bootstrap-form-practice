@@ -1,0 +1,19 @@
+/* Footer / socials list  */
+
+.list-inline {
+  margin: 0 auto;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 10px;
+}
+
+.fa-brands {
+  font-size: 30px;
+  color: #A0A0A0;
+}
+
+.fa-brands:hover {
+  color: #0275d8;
+}
